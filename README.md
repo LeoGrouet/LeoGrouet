@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-![General Kenobi](https://tenor.com/view/hello-there-general-kenobi-gif-18841535)(https://tenor.com/fr/view/hello-there-general-kenobi-gif-18841535)
+![General Kenobi](https://tenor.com/view/hello-there-general-kenobi-gif-18841535)
 
 
 <!--

@@ -1,8 +1,6 @@
 ### Hello there 👋
 
-
-![General Kenobi](https://i.imgur.com/YBqg9JG.gifv)
-
+![General Kenobi](https://tenor.com/view/hello-there-general-kenobi-gif-18841535)
 
 <!--
 **LeoGrouet/LeoGrouet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

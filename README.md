@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<img src="https://tenor.com/view/hello-there-general-kenobi-gif-18841535">
+![General Kenobi](https://tenor.com/view/hello-there-general-kenobi-gif-18841535)
 
 
 <!--

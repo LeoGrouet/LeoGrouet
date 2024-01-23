@@ -10,6 +10,8 @@
 - 📫 How to reach me: leo.grouet@gmail.com
 
 - ![Static Badge](https://img.shields.io/badge/Javascript-yellow)
+- ![Static Badge](https://img.shields.io/badge/HTML-red)
+- ![Static Badge](https://img.shields.io/badge/CSS-blue)
 
 
 

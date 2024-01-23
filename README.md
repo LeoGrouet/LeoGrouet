@@ -1,14 +1,27 @@
 ### Hello there 👋
 
+
 ![General Kenobi](./giphy.gif)
 
 
-👨🏻‍💻 Currently working on my portfolio and other projects that bring me joy. Certainly not todo app or trello bis ... Or maybe I should 
+👨🏻‍💻 Currently working on my portfolio and other projects that bring me joy. Certainly not a todo app or a trello bis... Or maybe I should. 🤷🏻‍♂️
   
 🌱 I’m currently learning on myself. That was not expected but it is was it is.
-  
-📫 How to reach me: leo.grouet@gmail.com
 
+
+Some about me :
+
+`I love basketball, video games, science, culture, langage... I love a very different kinds of stuff .
+Since few years, I discovered programation and I decide that this going to be my next ambition. So I quit my job, I found the way to learn code, and then I join O'Clock School.
+I never stopped since. Except for the aventure of my life .... so far... I have done a 4 months cycling trip around Scandinavie in summer 2023. Best decision ever.
+Since I came back, I kept learning and practicing my coding skills`
+
+  
+📫 How to reach me: 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-grouet/)
+
+![Static Badge](https://img.shields.io/badge/leo.grouet@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)
 
 👨🏻‍💻 Basic Techs I know :
 
@@ -25,3 +38,4 @@
 🧑🏻‍🎓 Techs I'm learning :
 
 ![Static Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/php-7A86B9?style=for-the-badge&logo=php&logoColor=white) 
+</center>

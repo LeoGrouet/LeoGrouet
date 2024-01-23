@@ -10,8 +10,8 @@
 📫 How to reach me: leo.grouet@gmail.com
 
 👨🏻‍💻 Techs i know :
-![Static Badge](https://img.shields.io/badge/Javascript-yellow) ![Static Badge](https://img.shields.io/badge/HTML-red) ![Static Badge](https://img.shields.io/badge/CSS-blue)
-![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML-red?style=flat&logo=html&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat&logo=css&logoColor=white)
+
 
 
 

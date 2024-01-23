@@ -1,5 +1,5 @@
 ### Hello there 👋
-<img href="https://tenor.com/view/hello-there-hi-there-greetings-gif-9442662">
+<img src="https://tenor.com/view/hello-there-hi-there-greetings-gif-9442662" width="30px">
 <!--
 **LeoGrouet/LeoGrouet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

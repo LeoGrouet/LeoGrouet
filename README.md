@@ -4,9 +4,8 @@
 
 ## 🙋🏻‍♂️ I’m Léo! A web developer based in Caen 🍎 ## 
 
-Currently working on my portfolio and other projects that bring me joy. Certainly not a todo app or a trello bis... Or maybe should I? 🤷🏻‍♂️
-
-🌱 I’m also currently learning on myself. That was not expected but it is was it is.
+Currently working on my portfolio and other projects that bring me joy. Certainly not a todo app or a trello bis... Or maybe should I? 🤷🏻‍♂️ 
+I’m also currently learning on myself. That was not expected but it is was it is. 🌱 
 
 ## 🏀 Stuff to get to know me better  ## 
 

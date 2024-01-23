@@ -1,9 +1,9 @@
-### Hi there 👋
-
+### Hello there 👋
+<div class="tenor-gif-embed" data-postid="9442662" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/hello-there-hi-there-greetings-gif-9442662">Hello There Hi There GIF</a>from <a href="https://tenor.com/search/hello+there-gifs">Hello There GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 **LeoGrouet/LeoGrouet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-# <img src="https://tenor.com/view/hello-there-general-kenobi-gif-18841535">
+<img src="https://tenor.com/view/hello-there-general-kenobi-gif-18841535">
 
 
 <!--
@@ -8,8 +8,10 @@
 -->
 
 
-- 🔭 Currently working on my portfolio and other apps that bring me joy.
-- 🌱 I’m currently learning ...
+- 👨🏻‍💻 Currently working on my portfolio and other projects that bring me joy. Certainly not todo app or trello bis ... Or maybe i should 
+  
+- 🌱 I’m currently learning myself. That was not expected but it is was it is.
+  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

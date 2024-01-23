@@ -9,5 +9,7 @@
   
 - 📫 How to reach me: leo.grouet@gmail.com
 
-- 
+- ![Static Badge](https://img.shields.io/badge/Javascript-yellow)
+
+
 

@@ -23,6 +23,7 @@ Since I came back, I have kept learning and practicing my coding skills, discove
 
 ## 👨🏻‍💻 Basic techs I know ## 
 
+
 ![Static Badge](https://img.shields.io/badge/Javascript-CD970E?style=for-the-badge&logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/html-E05D45?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/css-5175AA?style=for-the-badge&logo=css3&logoColor=white) ![Static Badge](https://img.shields.io/badge/EJS-8A975A?style=for-the-badge&logo=ejs&logoColor=white) ![Static Badge](https://img.shields.io/badge/Postgresql-1C6AA4?style=for-the-badge&logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Node-4E6D4D?style=for-the-badge&logo=node.js&logoColor=white) ![Static Badge](https://img.shields.io/badge/Express-2F2F2F?style=for-the-badge&logo=express&logoColor=white) 
 
 `Disclaimer: The technologies showcased under this message do not necessarily indicate mastery at 100%. They are tools I have used and am familiar with to some extent.`

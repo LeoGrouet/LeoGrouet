@@ -30,11 +30,11 @@ Since I came back, I have kept learning and practicing my coding skills, discove
 
 ## ⚙️ Other techs I know ## 
 
-![Static Badge](https://img.shields.io/badge/Mongodb-003935?style=for-the-badge&logo=mongodb&logoColor=white) ![Static Badge](https://img.shields.io/badge/angular-891E0A?style=for-the-badge&logo=angular&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/Mongodb-003935?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 `Disclaimer-2: The technologies showcased under this message do not necessarily indicate mastery at 1%. They are tools I have NEVER used and am NOT familiar with BUT I want to learn.`
 
 ## 🧑🏻‍🎓 Techs I'm learning ## 
 
-![Static Badge](https://img.shields.io/badge/react-7BA5B1?style=for-the-badge&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/php-7A86B9?style=for-the-badge&logo=php&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/react-7BA5B1?style=for-the-badge&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/php-7A86B9?style=for-the-badge&logo=php&logoColor=white) ![Static Badge](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony&logoColor=white) 
 

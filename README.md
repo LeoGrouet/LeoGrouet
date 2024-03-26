@@ -36,5 +36,5 @@ Since I came back, I have kept learning and practicing my coding skills, discove
 
 ## 🧑🏻‍🎓 Techs I'm learning ## 
 
-![Static Badge](https://img.shields.io/badge/react-7BA5B1?style=for-the-badge&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/php-7A86B9?style=for-the-badge&logo=php&logoColor=white) ![Static Badge](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony&logoColor=white) 
-
+![Static Badge](https://img.shields.io/badge/react-7BA5B1?style=for-the-badge&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/php-7A86B9?style=for-the-badge&logo=php&logoColor=white) ![Static Badge](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony&logoColor=white) ![Static Badge](https://img.shields.io/badge/Mysql-1C6AA4?style=for-the-badge&logo=mysql&logoColor=white)
+ 
